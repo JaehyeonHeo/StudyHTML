@@ -18,10 +18,9 @@ HTML5, CSS3, JS 학습용 리파지토리
 
 #이미지 삽입 
 
-![캡쳐이미지](https://raw.githubusercontent.com/JaehyeonHeo/StudyHTML/367e1835245224a32158a43714b39677b27bd3ad/ref_images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20001%2C%202021%2C012616.png)
-
 ![캡쳐이미지](https://github.com/JaehyeonHeo/StudyHTML/blob/367e1835245224a32158a43714b39677b27bd3ad/ref_images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20001,%202021,012616.png?raw=true)
 
+![새로운캡쳐이미지](https://github.com/JaehyeonHeo/StudyHTML/blob/facab94ebdf2f2c33d3242d88fa932cc82eb1eb9/ref_images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20002,%202021,012616.png?raw=true)
 ___ 
 ## HTML5 
 HTML 기본 학습
