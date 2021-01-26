@@ -22,7 +22,7 @@ HTML5, CSS3, JS 학습용 리파지토리
 
 ![새로운캡쳐이미지](https://github.com/JaehyeonHeo/StudyHTML/blob/facab94ebdf2f2c33d3242d88fa932cc82eb1eb9/ref_images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20002,%202021,012616.png?raw=true "가로600이미지")
 
-- [ ] 체크박스 
+- [ ] 체크박스 (띄워쓰기가 중요하고 앞에 오는 기호에 따라 간격 다름)
 
 - [X] 체크박스 체크됨 
 
