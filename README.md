@@ -14,7 +14,6 @@ HTML5, CSS3, JS 학습용 리파지토리
 - [naver 홈페이지](https://www.naver.com)
 - [마크다운 사용법](https://gist.github.com/ihoneymon/652be052a0727ad59601)
 
-[이미지](ref_images/이미지 001, 2021,012616.png)
 
 문의메일 : <jhheo06@gmail.com>
 
