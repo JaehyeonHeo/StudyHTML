@@ -6,10 +6,11 @@ HTML5, CSS3, JS 학습용 리파지토리
 ## HTML5 
 HTML 기본 학습
 
-
 ### HTML 이란?
 개요에 대해서 학습합니다.
-
+1. Hyper Text Markup Language 정의 
+2. HTML의 역사
+3. HTML5와의 차이점 
 -----------------------
 
 ## CSS3
