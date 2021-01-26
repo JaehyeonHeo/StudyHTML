@@ -12,10 +12,9 @@ HTML5, CSS3, JS 학습용 리파지토리
 
 ```csharp
 C# 코드를 활용
-string = art 
-
-string.art = a 
-console.writeline = a
+string = art;
+  string.art = a; 
+    console.writeline = a;
 
 ```
 
