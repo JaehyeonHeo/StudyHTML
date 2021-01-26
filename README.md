@@ -18,7 +18,7 @@ HTML5, CSS3, JS 학습용 리파지토리
 
 #이미지 삽입 
 
-![캡쳐이미지](https://github.com/JaehyeonHeo/StudyHTML/edit/main/README.md)
+![캡쳐이미지](ref_images/이미지 001, 2021,012616.png"사진설명:캡쳐화면 실행결과")
 
 ___ 
 ## HTML5 
