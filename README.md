@@ -2,7 +2,7 @@
 HTML5, CSS3, JS 학습용 리파지토리
 ___ 
 
-## HTML5 
+## 🔸 HTML5 
 HTML 기본 학습
 
 ### HTML 이란?
@@ -11,17 +11,17 @@ HTML 기본 학습
 2. HTML의 역사
 3. HTML5와의 차이점 
 ___ 
-## CSS3
+## 🔸 CSS3
 CSS3 기본 학습
 
 ___
-## Javascript
+## 🔸 Javascript
 Javascript 기본 학습 
 ___
-## Respinsive Web
+## 🔸 Respinsive Web
 응답형 웹 기본 학습 
 ___
-## Project
+## 🔸 Project
 전체 통합 프로젝트 
 ___
 
