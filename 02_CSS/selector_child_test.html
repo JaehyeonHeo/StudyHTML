@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>CSS3 Selector Basic</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        #header h2 {
+            color: blueviolet;
+            background-color: palegoldenrod;
+        }
+        
+
+        #section h2 {
+            color: orange;
+            background-color: palegreen;
+        }
+
+        #header h2:active{background-color: brown;}
+
+        #header h2:hover{color: chartreuse;}
+
+        
+    </style>
+
+
+</head>
+
+<body>
+    <div id="header">
+        <h2 class="title">Lorem ipsum</h2>
+        <div id="nav">
+            <h2>Navigation</h2>
+        </div>
+        <h3>subTitle</h3>
+    </div>
+    <div id="section">
+        <h2 class="title">Lorem ipsum</h2>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+            Beatae deserunt libero eligendi earum, ea et facere similique magnam repellendus distinctio
+            quae cum numquam debitis aliquid hic minus natus eaque non?</p>
+    </div>
+    <div>
+        <form>
+            <label for="user id">이름</label>
+            <input name="user id"><br>
+            <label for="password">비번</label>
+            <input name="password">
+        </form>
+    </div>
+
+</body>
+
+</html>
