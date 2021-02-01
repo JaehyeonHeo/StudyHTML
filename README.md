@@ -9,7 +9,7 @@ ___
 [HTML 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/01_HTML)
 
 ## 🔸 CSS3
-CSS3 기본 학습
+[CSS3 기본 학습](https://github.com/JaehyeonHeo/StudyHTML/tree/main/02_CSS)
 
 ___
 ## 🔸 Javascript
