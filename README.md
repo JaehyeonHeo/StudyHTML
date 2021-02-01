@@ -16,7 +16,7 @@ ___
 ## 🔸 Javascript
 Javascript 기본 학습 
 ___
-## 🔸 Respinsive Web
+## 🔸 Responsive Web
 응답형 웹 기본 학습 
 ___
 ## 🔸 Project
