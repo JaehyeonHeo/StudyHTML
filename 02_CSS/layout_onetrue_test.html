@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>One True Layout</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            margin: 0 auto;
+            width: 800px;
+        }
+
+        #header {
+            overflow: hidden;
+            background-color: darkcyan;
+        }
+
+        #section {
+            overflow: hidden;
+        }
+
+        #aside {
+            float: left;
+            width: 200px;
+            background-color: blueviolet;
+        }
+
+        #content {
+            float: right;
+            width: 600px;
+            background-color: burlywood;
+        }
+
+        #footer {
+            background-color: cyan;
+        }
+
+        /* 글자가 길때 자동으로... 처리하는 기능 엘립시스(ellipsis)*/
+        .ellipsis {
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="header">Lorem, ipsum dolor sit amet consectetur adipisicing elit. A quia dignissimos assumenda! Dolore,
+        minus cumque deserunt exercitationem corrupti vero sunt nobis impedit ipsam omnis aperiam officiis sed mollitia
+        laborum labore.</div>
+    <div id="section">
+        <div id="aside" class="ellipsis">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Commodi pariatur
+            dolores quod. Amet quis cumque,
+            laborum delectus molestias incidunt expedita error suscipit exercitationem tempore quos modi sequi, iusto
+            odit velit.</div>
+        <div id="content" class="ellipsis">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Assumenda maxime
+            est molestiae sint incidunt
+            molestias rerum quibusdam corporis. Inventore nostrum ab minus et tempora, tempore laboriosam quaerat vitae
+            incidunt facere.</div>
+    </div>
+    <div id="footer">Lorem ipsum dolor sit amet consectetur adipisicing elit. Repudiandae voluptas nisi autem, libero ab
+        illo fugit
+        suscipit non consectetur inventore eius a exercitationem corporis officiis harum illum! Beatae, dolor quae.
+    </div>
+</body>
+
+</html>
