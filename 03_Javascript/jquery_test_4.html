@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>주민번호 입력창 + 앞칸 다 입력하면 자동으로 박스 옮기기</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src="script/jquery-3.5.1.min.js"></script>
+    <script>
+        $(document).ready(function(){
+            $('input:nth-child(1)').keydown(function () {
+                if (6 <= $(this).val().length) {
+                    $('input:nth-child(2)').focus();
+                }
+                
+            });
+        });
+    </script>
+
+    <style>
+    </style>
+</head>
+<body>
+    <form>
+        <input type="text" maxlength="6">-<input type="text" maxlength="7">
+        <input type="submit" value="제출">
+    </form>
+    
+</body>
+</html>
