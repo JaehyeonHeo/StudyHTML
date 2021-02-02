@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>jqueryTest</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <!-- 다운로드 받아서 사용하는 방법 -->
+    <!-- <script src='script/jquery-3.5.1.min.js'></script> -->
+    <!-- 다운 받지 않고 인터넷에서 바로 소스 가져오는방법 (네트워크 연결 필수) -->
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        //구시대 유물(jquery가 나오기 전까지만 사용), 로드이벤트
+        // window.onload = function () { }
+
+        //jquery 이후에 바뀐 로드 이벤트
+        $(document).ready(function () {
+
+            $("h1").css("background-color", "black");
+            $("h1").css("color", "white");
+
+            console.log($("script").attr("src"));
+
+            //이미지 속성 변경
+            // $("img").attr({
+            //     alt: "jQuery라이브러리로 속성 지정",
+            //     src: "http://placehold.it/200x200",
+            //     width: "200px"
+            // });
+
+            $("img").attr({
+                alt: "jQuery라이브러리로 속성 지정",
+                src: function (index) {
+                    var size = (index + 1) * 100;
+                    return "https://placehold.it/" + size + "x100";
+                }
+            });
+
+            
+
+        });
+    </script>
+</head>
+
+<body>
+    <h1>jqueryTest</h1>
+    <h1>Hello world</h1>
+    <h1>Tuesday</h1>
+    <br>
+    <img>
+    <img>
+    <img>
+</body>
+
+</html>
