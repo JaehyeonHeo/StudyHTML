@@ -15,11 +15,11 @@ ___
 ___
 ## 🔸 Javascript
 Javascript 기본 학습 
-___
-## 🔸 Responsive Web
-응답형 웹 기본 학습 
+
 ___
 ## 🔸 Project
 전체 통합 프로젝트 
-___
+#### 반응형 웹 그리드 레이아웃 웹페이지 실습
+
+
 
