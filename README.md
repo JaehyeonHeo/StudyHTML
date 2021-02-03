@@ -20,6 +20,7 @@ ___
 ## 🔸 Project
 전체 통합 프로젝트 
 #### 반응형 웹 그리드 레이아웃 웹페이지 실습
+![웹 메인](https://github.com/JaehyeonHeo/StudyHTML/blob/2bec42473423defc236c9d9228887f8c176c2fee/ref_images/homepage.png "매인 화면")
 
 
 
