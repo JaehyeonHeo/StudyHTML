@@ -4,16 +4,16 @@ ___
 
 ## ✔ HTML5 
 * HTML 기본 학습
-### [HTML 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/01_HTML)
+### [🗒HTML 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/01_HTML)
 
 ## ✔ CSS3 
 * CSS 기본 학습
-### [CSS 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/02_CSS)
+### [🗒CSS 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/02_CSS)
 
 ___
 ## ✔ Javascript
 * Javascript 기본 학습 
-### [javascript 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/03_Javascript)
+### [🗒javascript 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/03_Javascript)
 
 ___
 ## ✔ Project
