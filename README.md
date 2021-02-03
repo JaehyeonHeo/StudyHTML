@@ -21,7 +21,7 @@ ___
 전체 통합 프로젝트 
 #### 반응형 웹 그리드 레이아웃 웹페이지 실습
 ![전체소스](https://github.com/JaehyeonHeo/StudyHTML/blob/main/04_Project/index.html)
-<br>
+
 ![결과 1](https://github.com/JaehyeonHeo/StudyHTML/blob/main/ref_images/main.png "전체레이아웃")
 ![결과 2](https://github.com/JaehyeonHeo/StudyHTML/blob/main/ref_images/lightbox.png "팝업레이아웃")
 
