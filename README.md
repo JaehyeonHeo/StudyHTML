@@ -1,9 +1,9 @@
 # ✅ HTML 학습 리포지토리 ✅
-HTML5, CSS3, JAVAscript 학습용 리파지토리
+* HTML5, CSS3, JAVAscript 학습용 리파지토리
 ___ 
 
 ## ✔ HTML5 
-### HTML 기본 학습
+### * HTML 기본 학습
 [HTML 소스](https://github.com/JaehyeonHeo/StudyHTML/tree/main/01_HTML)
 
 ## ✔ CSS3 
