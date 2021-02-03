@@ -1,4 +1,4 @@
-# ✅ HTML 학습 리포지토리 
+# ✅ HTML 학습 리포지토리 ✅
 HTML5, CSS3, JAVAscript 학습용 리파지토리
 ___ 
 
