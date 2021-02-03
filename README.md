@@ -31,6 +31,6 @@ ___
 ![결과 2](https://github.com/JaehyeonHeo/StudyHTML/blob/main/ref_images/lightbox.png "팝업레이아웃")
 ________
 
-[<-뒤로](https://github.com/JaehyeonHeo?tab=repositories)
+[🔙뒤로](https://github.com/JaehyeonHeo?tab=repositories)
 
 
